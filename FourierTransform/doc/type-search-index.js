@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.fourier","l":"ComplexNumber"},{"p":"com.fourier","l":"DCT"},{"p":"com.fourier","l":"DFT"},{"p":"com.fourier","l":"Driver"},{"p":"com.fourier","l":"FourierCalculation"}]
